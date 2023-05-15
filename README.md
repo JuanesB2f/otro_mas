@@ -1,6 +1,6 @@
 # Ejercicio base
 > Juan Esteban Fonseca Avila
->  ## Codigo
+## Codigo
 | Archivo completo pdf | Estructurado | Orientado a Objetos | 
 |----|----|
 |    [VER Codigo](/promediopdf.pdf) | [VER Codigo](/Estrucutrada/trabajoProm.java) | [VER Codigo](/OrientadaObjetosPerso/VENTAS.java) |
