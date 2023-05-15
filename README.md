@@ -136,10 +136,9 @@ flowchart TD;
 </details>
 
 <br style="height:100px;"></br>
-    ## Codigo
 Archivo completo| Estructurado | Orientado a Objetos | 
 |----|----|----|
-[VER Completo](/pdf/promedio.pdf) | [VER Codigo](/Estrucutrada/trabajoProm.java) | [VER Codigo](/OrientadaObjetosPerso/VENTAS.java) |
+[VER Completo](/pdf/promedio 2.docx) | [VER Codigo](/Estrucutrada/trabajoProm.java) | [VER Codigo](/OrientadaObjetosPerso/VENTAS.java) |
      
 
 
