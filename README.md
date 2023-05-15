@@ -17,6 +17,9 @@ ACLARACIONES:
 Como empelado y unico dueño de una perfumeria en la que cende (colonias AA de 100 ml), quiero poder allar
 las ventas que se hizo durante 4 semanas para calcular el promedio del mes de Febrero.
 
+## historia de usuario
+[PDF](/promediopdf.pdf)
+
 Escenario  1 :
 >Ingresar la informacion de los perfumes de la tienda
 
