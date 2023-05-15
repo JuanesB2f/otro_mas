@@ -51,7 +51,7 @@ Curso Normal de Eventos:
 2. El empleado ingresa la identificación, nombre, nombre de perfume, venta de la semana uno, venta de la semana dos, venta de la semana 3, venta de la semana 4. 
 
 3. Se calcula el promedio a partir de:
-(Semana 1 + semana 2+ semana 3+ semana 4/total de ventas) / Cantidad Estudiantes
+(Semana 1 + semana 2+ semana 3+ semana 4/total de ventas) / Cantidad de Perfumes
 4. Se Muestra el promedio de perfumes 
 Postcondiciones: Promedio ventas.
 
