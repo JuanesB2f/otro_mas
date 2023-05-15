@@ -1,5 +1,6 @@
 # Ejercicio base
 > Juan Esteban Fonseca Avila
+[ARCHIVO COMPLETO](/pdf/promedio 2.docx)
 
 ## Enfoque
 Como empleado de una tienda de perfumes, asigna el desarrollo de una aplicación que calcule el promedio de ventas que se ha hecho durante las 4 semanas de el mes de febrero de un perfume en particular. La aplicación debe ser capaz de registrar el nombre del empleado, número de identificación, el nombre del perfume, y la cantidad de perfumes.
