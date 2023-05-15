@@ -131,6 +131,11 @@ flowchart TD;
 </details>
 
 <br style="height:100px;"></br>
+     
+ ## Codigo
+| Estructurado | Orientado a Objetos |
+|----|----|
+| [VER Codigo](/Estrucutrada/trabajoProm.java) | [VER Codigo](/OrientadaObjetosPerso/VENTAS.java) |
 
 
 
